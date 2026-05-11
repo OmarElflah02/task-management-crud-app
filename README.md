@@ -80,11 +80,6 @@ task-management-app/
 ---
 
 # 🌐 Live Demo
-
-Add your live demo link here:
-
-```bash
-https://your-live-demo-link.vercel.app
-```
+https://omarelflah02.github.io/task-management-crud-app/
 
 
