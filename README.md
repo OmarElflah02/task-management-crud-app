@@ -69,6 +69,7 @@ task-management-app/
 ├── index.html
 ├── index.js
 ├── README.md
+├── style.css
 │
 ├── screenshots/
 │   ├── light-mode.png
